@@ -14,7 +14,7 @@ var vaegt = document.getElementById("vægt").value;
 //Over 40	Svær fedme
 //vægt / (højde x højde) = BMI
 
-bmital =vaegt/(hojde*hojde);
+bmital =(vaegt)/((hojde/100)*(hojde/100));
 if(bmital<=19.5){
     diagnose="Undervægtig";
 } 
