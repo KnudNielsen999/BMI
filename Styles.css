@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(112, 154, 161);
+  }
+  h1 {
+    color: rgb(26, 8, 104);
+   font:italic;
+   font-size: 75px;
+  }
+  h2 {
+    color: rgb(0, 255, 85);
+   font:italic;
+   font-size: 100px;
+  }
+ 
+  .input{
+    background-color: rgb(120, 145, 161);
+    font:italic;
+    color: rgb(156, 8, 8);
+    font-size: 40px;
+  }
+  #ditnavn {
+    font:italic;
+    color: rgb(24, 82, 38);
+    font-size: 40px;
+  }
+  #BmiTal {
+    font:italic;
+    color: rgb(24, 82, 38);
+    font-size: 40px;
+  }
+  #Diagnose {
+    font:italic;
+    color: rgb(21, 63, 31);
+    font-size: 50px;
+  }
