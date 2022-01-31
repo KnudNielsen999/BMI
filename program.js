@@ -37,5 +37,5 @@ else if(bmital>40)
 
 var diagstring = "diagnosen er "+" "+diagnose;
 
-document.getElementById("dia").innerHTML="Hej "+navn+"  "+"BMI "+bmital.toFixed(1)+" "+diagstring;
+document.getElementById("dia").innerHTML="Hej "+navn+"  "+"din BMI er "+bmital.toFixed(1)+"<br> "+diagstring;
 }
